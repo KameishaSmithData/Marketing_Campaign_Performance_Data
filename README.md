@@ -35,6 +35,15 @@ This project analyzes the effectiveness of different marketing campaigns across 
 	•	Email & Social Media campaigns had the best cost-to-conversion ratio.
 	•	Google Ads & Instagram had lower conversion rates despite high impressions.
 
+## 📊 Summary of Findings
+
+| Metric                     | Best Performing |
+|----------------------------|----------------|
+| **Top Campaign Type**       | Email Marketing (Highest Conversion) |
+| **Best Engagement Channel** | Social Media (Highest Clicks) |
+| **Highest ROI Platform**    | Google Ads |
+| **Best Day for Engagement** | Thursdays |
+
 📊 Visualizations
 
 | Visualization File                     | Description                                         |
@@ -58,6 +67,16 @@ This project analyzes the effectiveness of different marketing campaigns across 
 🔹 Run A/B testing on Email & Social Media to improve conversion rates.
 🔹 Experiment with retargeting ads to increase ROI on Google Ads.
 
+## 🛠 Tools & Technologies
+- **Python** (pandas, numpy, matplotlib, seaborn)
+- **SQL** (Data Extraction & Analysis)
+- **Power BI / Tableau** (Data Visualization)
+- **Jupyter Notebook** (Data Exploration)
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database%20Queries-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-lightblue)
 
 📢 How to Use This Repository
 	1.	Clone the repo:
